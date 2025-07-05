@@ -1,3 +1,10 @@
+# File konfigurasi yang berisi rahasia
 config.ini
+
+# File log yang tidak perlu di-commit
 *.log
+
+# Folder virtual environment Python (jika Anda menggunakannya)
+__pycache__/
+.venv/
 venv/
